@@ -1,0 +1,62 @@
+[
+  {
+    "SourceFile": "/img/14821-01-18.jpg",
+    "ImageSize": "1351x2024",
+    "ImageWidth": "1351",
+    "ImageHeight": "2024",
+    "Keywords": ["Анжелика", "портрет", "крупный план"],
+    "Aperture": 2.8,
+    "ShutterSpeed": "1/200",
+    "ISO": 100,
+    "FocalLength": "50.0 mm",
+    "FileName": "14821-01-18.jpg"
+  },
+  {
+    "SourceFile": "/img/14621-01-18.jpg",
+    "ImageSize": "1351x2024",
+    "ImageWidth": "1351",
+    "ImageHeight": "2024",
+    "Keywords": ["Анжелика", "платье"],
+    "Aperture": 10.0,
+    "ShutterSpeed": "1/100",
+    "ISO": 100,
+    "FocalLength": "50.0 mm",
+    "FileName": "14621-01-18.jpg"
+  },
+  {
+    "SourceFile": "/img/15201-05-19.jpg",
+    "ImageSize": "2024x1351",
+    "ImageWidth": "2024",
+    "ImageHeight": "1351",
+    "Keywords": ["свадьба", "шампанское"],
+    "Aperture": 4.0,
+    "ShutterSpeed": "1/200",
+    "ISO": 720,
+    "FocalLength": "46.0 mm",
+    "FileName": "15201-05-19.jpg"
+  },
+  {
+    "SourceFile": "/img/15301-05-19.jpg",
+    "ImageSize": "2024x1351",
+    "ImageWidth": "2024",
+    "ImageHeight": "1351",
+    "Keywords": ["свадьба", "детали", "туфли"],
+    "Aperture": 5.0,
+    "ShutterSpeed": "1/400",
+    "ISO": 100,
+    "FocalLength": "52.0 mm",
+    "FileName": "15301-05-19.jpg"
+  },
+  {
+    "SourceFile": "/img/15401-05-19.jpg",
+    "ImageSize": "2024x1351",
+    "ImageWidth": "2024",
+    "ImageHeight": "1351",
+    "Keywords": ["Лопух", "Свадьба"],
+    "Aperture": 4.0,
+    "ShutterSpeed": "1/320",
+    "ISO": 360,
+    "FocalLength": "32.0 mm",
+    "FileName": "15401-05-19.jpg"
+  }
+]
